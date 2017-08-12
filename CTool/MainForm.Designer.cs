@@ -1,5 +1,5 @@
 ﻿namespace CTool {
-    partial class Form1 {
+    partial class MainForm {
         /// <summary>
         /// 必需的设计器变量。
         /// </summary>
